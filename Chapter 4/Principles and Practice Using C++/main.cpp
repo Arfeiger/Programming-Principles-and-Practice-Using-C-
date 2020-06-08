@@ -2,6 +2,7 @@
 	
 */
 #include <iostream>
+#include <array>
 #include <string>
 #include <cstdlib>
 #include <cmath>
@@ -586,6 +587,14 @@ int main (){
 	//exo_18(5, 2, 5);
 	//exo_19();
 	//exo_20();
-	exo_21();
+//	exo_21();
+
+	int data[2];
+
+
+	for (int i = 0; i <4; i++) {
+
+		cout << i << endl;
+	}
 
 }

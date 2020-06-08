@@ -1,19 +1,20 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Principles and Practice Using C++.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   main.cpp
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(345,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(364,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(388,20): warning C4018: '<': signed/unsigned mismatch
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(414,20): warning C4018: '<': signed/unsigned mismatch
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(463,21): warning C4018: '<': signed/unsigned mismatch
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(472,20): warning C4018: '<': signed/unsigned mismatch
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(490,21): warning C4018: '<': signed/unsigned mismatch
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(499,20): warning C4018: '<': signed/unsigned mismatch
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(508,20): warning C4018: '<': signed/unsigned mismatch
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(534,21): warning C4018: '<': signed/unsigned mismatch
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(543,20): warning C4018: '<': signed/unsigned mismatch
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(554,20): warning C4018: '<': signed/unsigned mismatch
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(166): warning C4715: 'exo_6_modify': not all control paths return a value
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(518): warning C4715: 'exo_20': not all control paths return a value
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(568): warning C4715: 'exo_21': not all control paths return a value
-C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(475): warning C4715: 'exo_19': not all control paths return a value
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(346,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(365,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(389,20): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(415,20): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(464,21): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(473,20): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(491,21): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(500,20): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(509,20): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(535,21): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(544,20): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(555,20): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(592,6): warning C4101: 'data': unreferenced local variable
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(167): warning C4715: 'exo_6_modify': not all control paths return a value
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(476): warning C4715: 'exo_19': not all control paths return a value
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(519): warning C4715: 'exo_20': not all control paths return a value
+C:\Workspace\C++\Chapter 4\Principles and Practice Using C++\main.cpp(569): warning C4715: 'exo_21': not all control paths return a value
   Principles and Practice Using C++.vcxproj -> C:\Workspace\C++\Chapter 4\Debug\Chapter_4.exe

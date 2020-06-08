@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Workspace\C++\Chapter 5\main.cpp(52,3): warning C4551: function call missing argument list
+C:\Workspace\C++\Chapter 5\main.cpp(79,17): warning C4018: '>': signed/unsigned mismatch
+  Chapter 5.vcxproj -> C:\Workspace\C++\Chapter 5\Debug\Chapter 5.exe
